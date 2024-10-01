@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy <a href="#" target="blank">[Jose Santos]</a></h1>
 <h3 align="center">Estudiante de Software en la ULEAM 🎓</h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <h4> Languages </h4>
