@@ -1,9 +1,5 @@
-<h1 align="center">Hola 👋, soy <a href="#" target="blank">[Tu Nombre]</a></h1>
-<h3 align="center">Un apasionado estudiante de [Tu Carrera] en la ULEAM 🎓</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[tuusuario]&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="[tuusuario]" /> </p>
-
-<p align="left"> <a href="https://twitter.com/[tuusuario]" target="blank"><img src="https://img.shields.io/twitter/follow/[tuusuario]?logo=twitter&style=for-the-badge" alt="[tuusuario]" /></a> </p>
+<h1 align="center">Hola 👋, soy <a href="#" target="blank">[Jose Santos]</a></h1>
+<h3 align="center">Estudiante de Software en la ULEAM 🎓</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -20,15 +16,12 @@
 
 <br>
 
-__Check out my GitHub repository:__
+__Mira mi repositorio de GitHub__
 
 <div>
   <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    <a href="https://github.com/JoseKanoly/Aplicaciones">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseKanoly&repo=Aplicaciones" alt="GitHub Stats" />
     </a>
   </p>
 </div>
